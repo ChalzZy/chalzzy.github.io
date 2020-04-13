@@ -1,0 +1,31 @@
+/* Cursor */
+.txt-type > .txt {
+    border-right: 0.2rem solid #777;
+}
+
+.orange-colour {
+    color: #ec4d37;
+}
+
+/* Social Media icons */
+.fa {
+    padding: 5px;
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      color: #ec4d37;
+  }
+
+.fa-linkedin {
+    color: gray;
+  }
+
+.fa-github {
+    color: gray;
+}
