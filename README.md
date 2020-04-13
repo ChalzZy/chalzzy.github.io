@@ -1,6 +1,6 @@
 # Personal website
 Personal website and blog for myself (ChalzZy).
-Find the website [here](https://charlesmonaghan.com/)
+Find the website [here](https://charlesmonaghan.com/).
 
 # Template
 Template for the website is coming soon. 
