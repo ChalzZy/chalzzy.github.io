@@ -1,6 +1,7 @@
 collections:
-  authors:
+  projects:
     output: true
+    permalink: /projects/:path/
 
 defaults:
   - scope:

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Blog
+title: Projects
 ---
 <div class="p-4">
-  <h3 class="orange-colour">Latest Posts</h1>
+  <h3 class="orange-colour">My Projects</h1>
     <ul>
-      {% for post in site.posts %}       
+      {% for post in site.projects %}       
           <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
           {{ post.excerpt }}
       {% endfor %}

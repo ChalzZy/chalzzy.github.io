@@ -1,0 +1,11 @@
+---
+layout: post_default
+---
+<div class="p-4">
+  <h2 class=orange-colour>{{ page.title }}</h2>
+    <p>
+        {% assign author = site.authors | where: 'short_name', page.author | first %}
+        <b>Charles Monaghan | Project</b>
+    </p>
+    {{ content }}
+</div>
