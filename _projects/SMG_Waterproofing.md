@@ -1,6 +1,6 @@
 ---
-title: "SMG Waterproofing"
+title: "SMG Waterproofing Website"
 layout: projects
 ---
 
-This is a description
+**Wordpress** development and **server deployment** for Auckland based waterproofing company.
