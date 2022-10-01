@@ -22,4 +22,5 @@ defaults:
       path: ''
     values:
       layout: 'default'
-# baseurl: "chalzzy.github.io"
+
+baseurl: 'chalzzy.github.io'
