@@ -7,7 +7,7 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		"/* Cursor */\r\n.txt-type > .txt {\r\n    border-right: 0.2rem solid #777;\r\n}\r\n\r\n.orange-colour {\r\n    color: #ec4d37;\r\n}\r\n\r\n/* Social Media icons */\r\n.fa {\r\n    padding: 5px;\r\n    font-size: 40px;\r\n    width: 40px;\r\n    text-align: center;\r\n    text-decoration: none;\r\n    margin: 5px 2px;\r\n  }\r\n  \r\n  .fa:hover {\r\n      opacity: 0.7;\r\n      color: #ec4d37;\r\n  }\r\n\r\n.fa-linkedin {\r\n    color: gray;\r\n  }\r\n\r\n.fa-github {\r\n    color: gray;\r\n}"
+		"/* Cursor */\n.txt-type > .txt {\n    border-right: 0.2rem solid #777;\n}\n\n.orange-colour {\n    color: #ec4d37;\n}\n\n/* Social Media icons */\n.fa {\n    padding: 5px;\n    font-size: 40px;\n    width: 40px;\n    text-align: center;\n    text-decoration: none;\n    margin: 5px 2px;\n  }\n  \n  .fa:hover {\n      opacity: 0.7;\n      color: #ec4d37;\n  }\n\n.fa-linkedin {\n    color: gray;\n  }\n\n.fa-github {\n    color: gray;\n}"
 	],
 	"names": [],
 	"mappings": "ACAA,YAAY;AACZ,AAAA,SAAS,GAAG,IAAI,CAAC,EACb,YAAY,EAAE,iBAAiB,GAClC;;AAED,AAAA,cAAc,CAAC,EACX,KAAK,EAAE,OAAO,GACjB;;AAED,wBAAwB;AACxB,AAAA,GAAG,CAAC,EACA,OAAO,EAAE,GAAG,EACZ,SAAS,EAAE,IAAI,EACf,KAAK,EAAE,IAAI,EACX,UAAU,EAAE,MAAM,EAClB,eAAe,EAAE,IAAI,EACrB,MAAM,EAAE,OAAO,GAChB;;AAED,AAAA,GAAG,CAAC,KAAK,CAAC,EACN,OAAO,EAAE,GAAG,EACZ,KAAK,EAAE,OAAO,GACjB;;AAEH,AAAA,YAAY,CAAC,EACT,KAAK,EAAE,IAAI,GACZ;;AAEH,AAAA,UAAU,CAAC,EACP,KAAK,EAAE,IAAI,GACd"
